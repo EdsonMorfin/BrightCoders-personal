@@ -1,1 +1,1 @@
-# BrightCoders-peronal
+# BrightCoders-personal
